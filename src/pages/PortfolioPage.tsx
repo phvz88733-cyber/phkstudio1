@@ -132,9 +132,10 @@ const PortfolioPage: React.FC<PortfolioPageProps> = ({ setView }) => {
               </div>
             </div>
           </div>
-        )}
-      </div>
-    );
-  };
+        </div>
+      )}
+    </div>
+  );
+};
 
 export default PortfolioPage;
